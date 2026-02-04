@@ -1,0 +1,7 @@
+{
+  "name": "Industrial IoT Guard",
+  "description": "A world-class real-time monitoring dashboard for ESP32-based industrial sensors including temperature monitoring and vibration analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
